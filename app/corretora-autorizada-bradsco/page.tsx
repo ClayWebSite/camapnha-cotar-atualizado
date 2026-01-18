@@ -80,11 +80,11 @@ export default function CorretoraBradescoPage() {
               Cote Conosco o Seu Plano de Saúde Bradesco
             </h1>
 
-            <p className="text-base sm:text-lg text-white/90 mb-3 sm:mb-4 lg:mb-5 max-w-2xl mx-auto leading-relaxed lg:text-base">
+            <p className="text-base sm:text-lg text-white/90 mb-3 sm:mb-4 lg:mb-5 max-w-2xl mx-auto leading-relaxed lg:text-2xl">
               Você precisa estar com a saúde em dia para continuar conquistando os seus objetivos.
             </p>
 
-            <p className="text-sm font-semibold text-white mb-8 sm:mb-10 lg:mb-12 max-w-xl mx-auto sm:text-base">
+            <p className="font-semibold text-white mb-8 sm:mb-10 lg:mb-12 max-w-xl mx-auto text-2xl">
               Faça uma cotação agora mesmo. Veja valores, rede credenciada e muito mais.
             </p>
             {/* End of headline change */}
