@@ -73,15 +73,15 @@ export default function CorretoraSulamericaPage() {
           </div>
 
           <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 text-center py-10 sm:py-14 lg:py-20">
-            <h1 className="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold text-white mb-3 sm:mb-4 lg:mb-6 max-w-4xl mx-auto leading-tight">
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold text-white mb-4 sm:mb-5 lg:mb-6 max-w-4xl mx-auto leading-tight">
               Cote Conosco o Seu Plano de Saúde SulAmérica
             </h1>
 
-            <p className="text-sm sm:text-base lg:text-lg text-white/80 mb-2 sm:mb-3 lg:mb-4 max-w-2xl mx-auto leading-relaxed">
+            <p className="text-base sm:text-lg text-white/90 mb-3 sm:mb-4 lg:mb-5 max-w-2xl mx-auto leading-relaxed lg:text-base">
               Você precisa estar com a saúde em dia para continuar conquistando os seus objetivos.
             </p>
 
-            <p className="text-xs sm:text-sm lg:text-base text-white/60 mb-6 sm:mb-8 lg:mb-10 max-w-xl mx-auto">
+            <p className="text-sm sm:text-base font-semibold text-white mb-8 sm:mb-10 lg:mb-12 max-w-xl mx-auto lg:text-base">
               Faça uma cotação agora mesmo. Veja valores, rede credenciada e muito mais.
             </p>
             {/* End of headline change */}
