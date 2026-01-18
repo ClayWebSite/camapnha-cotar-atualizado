@@ -205,16 +205,17 @@ export default function Home() {
             <div className="hidden lg:flex lg:flex-row items-start gap-8 lg:gap-16">
               {/* Content - Lado esquerdo */}
               <div className="w-full lg:w-1/2">
-                <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#1a3a5c] mb-6 lg:mb-8 leading-tight">
-                  Por Que Escolher a
+                <h2 className="text-2xl font-bold text-[#1a3a5c] mb-6 lg:mb-8 leading-tight sm:text-5xl">
+                  Por Que Indicamos os
+                  Planos de Saúde
                   <br />
-                  Sucesso Corretora?
+                  SulAmérica?
                 </h2>
 
                 <p className="text-[#64748b] text-sm sm:text-base lg:text-lg mb-6 leading-relaxed">
-                  Somos uma <span className="font-semibold text-[#1a3a5c]">corretora especializada</span> em planos de saúde, 
-                  trabalhando com as melhores operadoras do mercado. Oferecemos planos para você, sua família ou sua empresa, 
-                  com excelente custo-benefício.
+                  Indicamos a <span className="font-semibold text-[#1a3a5c]">SulAmérica Saúde</span> pois possui planos especiais para 
+                  você ou para sua empresa, inclusive MEI. A operadora oferece 
+                  planos empresariais de qualidade, com excelente custo-benefício.
                 </p>
 
                 <ul className="space-y-3 mb-8">
